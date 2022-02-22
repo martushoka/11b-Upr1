@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rechnici", "rechnici\rechnici.csproj", "{6C0FA024-A7E4-4175-9DB4-2F7C230177B1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telukazatel", "Telukazatel\Telukazatel.csproj", "{7D55F5D1-E9C3-4419-8D0A-B1890DD485E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6C0FA024-A7E4-4175-9DB4-2F7C230177B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6C0FA024-A7E4-4175-9DB4-2F7C230177B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6C0FA024-A7E4-4175-9DB4-2F7C230177B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6C0FA024-A7E4-4175-9DB4-2F7C230177B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D55F5D1-E9C3-4419-8D0A-B1890DD485E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D55F5D1-E9C3-4419-8D0A-B1890DD485E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D55F5D1-E9C3-4419-8D0A-B1890DD485E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D55F5D1-E9C3-4419-8D0A-B1890DD485E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {10BE3508-2652-4A2F-942D-9ED358F84E1F}
+		SolutionGuid = {2492D0DD-75C7-4557-B977-9F2C4BD0BC8A}
 	EndGlobalSection
 EndGlobal
