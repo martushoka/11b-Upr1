@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sklad", "Sklad\Sklad.csproj", "{7312907F-49F1-4D89-A587-9CE1DE4D7230}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toys", "Toys\Toys.csproj", "{65267725-C201-4CC1-A900-814F3E949756}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7312907F-49F1-4D89-A587-9CE1DE4D7230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7312907F-49F1-4D89-A587-9CE1DE4D7230}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7312907F-49F1-4D89-A587-9CE1DE4D7230}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7312907F-49F1-4D89-A587-9CE1DE4D7230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65267725-C201-4CC1-A900-814F3E949756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65267725-C201-4CC1-A900-814F3E949756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65267725-C201-4CC1-A900-814F3E949756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65267725-C201-4CC1-A900-814F3E949756}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0EE1008C-F468-4855-AE5D-D8A5AECFEDCC}
+		SolutionGuid = {A790FCA7-6CC8-420C-9608-C9D3D98A4A23}
 	EndGlobalSection
 EndGlobal
