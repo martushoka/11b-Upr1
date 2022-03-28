@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>XMLCommentDemo</name>
+    </assembly>
+    <members>
+        <member name="T:XMLCommentDemo.MainClass">
+            <summary>
+            MainClass is a simple illustrating how to use XML
+            documentation in C#
+            </summary>
+        </member>
+        <member name="M:XMLCommentDemo.MainClass.Square(System.Int32)">
+            <summary>Calculates the square of anumber</summary>
+            <param name="num">The number to calculate</param>
+            <returns>The calculated square</returns>
+            <exception cref="T:System.OverflowException">Throw when the
+            result is too big to be storein an int</exception>
+            <seealso cref="T:System.Int32"/>
+        </member>
+        <member name="M:XMLCommentDemo.MainClass.Main(System.String[])">
+            <summary>
+            The main entry point for the application.
+            </summary>
+            <param name="args">The command line arguments</param>
+        </member>
+    </members>
+</doc>
